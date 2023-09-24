@@ -18,7 +18,6 @@ function Home() {
         The Book World Library stands as a testament to the visionary initiative of Punit Patel Sir, a dedicated advocate of lifelong learning and intellectual enrichment. Nestled within the heart of the community, this literary haven transcends its role as a mere repository of books, evolving into a dynamic center of knowledge, imagination, and cultural exchange.
         </Typography>
       </div>
-      ;
     </>
   );
 }
